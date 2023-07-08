@@ -5,9 +5,9 @@ version: '3.3'
 services:
   # spring service
   spring:
-    image: spring_app
+    image: spring_app_july2023_aloui_med
     ports:
-      - "8001:8001" 
+      - "8007:8007" 
     container_name: spring_cont
     depends_on:
       - database
@@ -42,7 +42,7 @@ services:
       - database
     restart: always
     ports:
-      - 8081:80
+      - 8087:80
     environment:
       - PMA_ARBITRARY=1
     networks:

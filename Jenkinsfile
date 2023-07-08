@@ -7,7 +7,7 @@ pipeline {
           }
 
           environment {
-            DOCKERHUB_CREDENTIALS = credentials('mezghichdokub-lab-jenkins-spring')
+            DOCKERHUB_CREDENTIALS = credentials('alouimed-lab-jenkins-spring-docker-hub')
            }
 
 
@@ -32,7 +32,7 @@ pipeline {
 
                 steps {
                     
-                   sh 'docker build -t spring_app_july2023_amine_mezghich .'
+                   sh 'docker build -t spring_app_july2023_aloui_med .'
                 
                       }
 
@@ -44,13 +44,13 @@ pipeline {
 
                  steps {
 
-                  sh 'docker tag spring_app_july2023_amine_mezghich mezghichdokub/spring_app_july2023_amine_mezghich'
+                  sh 'docker tag spring_app_july2023_aloui_med alouimed/spring_app_july2023_aloui_med'
 
                   sh 'echo $DOCKERHUB_CREDENTIALS_PSW \
                   | docker login -u $DOCKERHUB_CREDENTIALS_USR \
                   --password-stdin'
 
-                  sh 'docker push mezghichdokub/spring_app_july2023_amine_mezghich'
+                  sh 'docker push alouimed/spring_app_july2023_aloui_med'
 
                        }
                 
