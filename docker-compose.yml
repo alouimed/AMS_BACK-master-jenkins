@@ -22,7 +22,7 @@ services:
   # Database Service (Mysql)
   database:
     image: mysql:latest
-    container_name: mysql_cont
+    container_name: mysql_cont_aloui
     volumes:
       - db_ams:/var/lib/mysql 
     restart: always
