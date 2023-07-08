@@ -8,7 +8,7 @@ services:
     image: spring_app_july2023_aloui_med
     ports:
       - "8007:8007" 
-    container_name: spring_cont
+    container_name: spring_cont_aloui
     depends_on:
       - database
     restart: always
@@ -37,7 +37,7 @@ services:
   # phpmyadmin Service 
   phpmyadmin:
     image: phpmyadmin
-    container_name: pmadmin_cont
+    container_name: pmadmin_cont_aloui
     depends_on:
       - database
     restart: always
