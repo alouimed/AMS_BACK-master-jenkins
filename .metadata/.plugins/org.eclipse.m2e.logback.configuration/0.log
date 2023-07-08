@@ -1,0 +1,119 @@
+2023-05-27 02:45:04,998 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-27 02:46:53,657 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-05-27 02:47:45,610 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project ams already exists
+2023-05-27 02:47:45,729 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project ams already exists
+2023-05-27 02:47:46,564 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project camp_spring already exists
+2023-05-27 02:47:46,571 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project camp_spring already exists
+2023-05-27 02:47:46,574 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project camp_spring already exists
+2023-05-27 02:47:46,988 [Worker-2: Importing Maven projects] ERROR o.e.m.c.i.p.ProjectConfigurationManager - Project time already exists
+2023-05-27 02:47:54,429 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sip:ams_mvc:1.0.0-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\ams_mvc\pom.xml.
+2023-05-27 02:47:55,279 [Worker-2: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-05-27 02:47:56,202 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.store:ecommerce:1.0.0-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\ecommerce\pom.xml.
+2023-05-27 02:47:57,281 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sip:cmdPRO:1.0.0-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\cmdPRO\pom.xml.
+2023-05-27 02:47:58,299 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ams:1.0.0-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\ams\pom.xml.
+2023-05-27 02:47:58,897 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sip:camp_spring1:0.0.1-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\camp_spring1\pom.xml.
+2023-05-27 02:47:59,700 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sip:camp_spring:0.0.1-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\camp_springdata\pom.xml.
+2023-05-27 02:48:00,842 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.med:time2:1.0.0-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\time2\pom.xml.
+2023-05-27 02:48:01,639 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.med:time3:1.0.0-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\time3\pom.xml.
+2023-05-27 02:48:02,147 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.med:time:1.0.0-SNAPSHOT @ C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\time\pom.xml.
+2023-05-27 02:48:07,736 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /camp_spring1/src/main/java
+2023-05-27 02:48:07,737 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /camp_spring1/src/main/resources
+2023-05-27 02:48:07,737 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /camp_spring1/src/main/resources
+2023-05-27 02:48:07,738 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /camp_spring1/src/test/java
+2023-05-27 02:48:08,188 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ams/src/main/java
+2023-05-27 02:48:08,189 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ams/src/main/resources
+2023-05-27 02:48:08,189 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ams/src/main/resources
+2023-05-27 02:48:08,190 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ams/src/test/java
+2023-05-27 02:48:09,021 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /camp_spring/src/main/java
+2023-05-27 02:48:09,022 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /camp_spring/src/main/resources
+2023-05-27 02:48:09,031 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /camp_spring/src/main/resources
+2023-05-27 02:48:09,036 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /camp_spring/src/test/java
+2023-05-27 02:48:09,451 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /time3/src/main/java
+2023-05-27 02:48:09,451 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /time3/src/main/resources
+2023-05-27 02:48:09,452 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /time3/src/main/resources
+2023-05-27 02:48:09,453 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /time3/src/test/java
+2023-05-27 02:48:09,686 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ams_mvc/src/main/java
+2023-05-27 02:48:09,686 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ams_mvc/src/main/resources
+2023-05-27 02:48:09,733 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ams_mvc/src/main/resources
+2023-05-27 02:48:09,770 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ams_mvc/src/test/java
+2023-05-27 02:48:10,346 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/main/java
+2023-05-27 02:48:10,346 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce/src/main/resources
+2023-05-27 02:48:10,347 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ecommerce/src/main/resources
+2023-05-27 02:48:10,352 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce/src/test/java
+2023-05-27 02:48:10,609 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /time/src/main/java
+2023-05-27 02:48:10,609 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /time/src/main/resources
+2023-05-27 02:48:10,610 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /time/src/main/resources
+2023-05-27 02:48:10,611 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /time/src/test/java
+2023-05-27 02:48:10,865 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /time2/src/main/java
+2023-05-27 02:48:10,866 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /time2/src/main/resources
+2023-05-27 02:48:10,866 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /time2/src/main/resources
+2023-05-27 02:48:10,867 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /time2/src/test/java
+2023-05-27 02:48:11,083 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cmdPRO/src/main/java
+2023-05-27 02:48:11,083 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cmdPRO/src/main/resources
+2023-05-27 02:48:11,084 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /cmdPRO/src/main/resources
+2023-05-27 02:48:11,088 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /cmdPRO/src/test/java
+2023-05-27 02:48:11,489 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 15 project(s) in 27 sec
+2023-05-27 02:48:15,194 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:15,194 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:15,202 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:15,227 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2023-05-27 02:48:15,262 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:15,262 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:15,262 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\ams\src\test\resources
+2023-05-27 02:48:19,148 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.31 has been relocated to com.mysql:mysql-connector-j:jar:8.0.31
+2023-05-27 02:48:19,308 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:19,308 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:19,326 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:19,391 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2057 resources
+2023-05-27 02:48:31,391 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:31,391 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:31,391 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\ams_mvc\src\test\resources
+2023-05-27 02:48:33,204 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:33,204 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:33,205 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:33,214 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 197 resources
+2023-05-27 02:48:33,327 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:33,327 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:33,327 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\camp_springdata\src\test\resources
+2023-05-27 02:48:34,627 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:34,627 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:34,627 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:34,629 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-05-27 02:48:34,632 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:34,632 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:34,633 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\camp_spring1\src\test\resources
+2023-05-27 02:48:36,095 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:36,096 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:36,096 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:36,099 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:36,106 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:36,106 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:36,106 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\cmdPRO\src\test\resources
+2023-05-27 02:48:36,987 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:36,987 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:36,987 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:36,989 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2023-05-27 02:48:37,013 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:37,014 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:37,014 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\ecommerce\src\test\resources
+2023-05-27 02:48:37,754 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:37,754 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:37,754 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:37,757 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:37,763 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:37,763 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:37,764 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\time\src\test\resources
+2023-05-27 02:48:38,456 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:38,457 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:38,457 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:38,459 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-05-27 02:48:38,481 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:38,481 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:38,481 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\time2\src\test\resources
+2023-05-27 02:48:39,199 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:39,200 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:39,200 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-05-27 02:48:39,202 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2023-05-27 02:48:39,220 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-27 02:48:39,220 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-05-27 02:48:39,220 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\mohamed\Documents\formation-fullstack-devops-scrum-amin-mezghich\workspace\time3\src\test\resources
